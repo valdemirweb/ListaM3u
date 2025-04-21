@@ -8,3 +8,25 @@ https://stream.equipevt.xyz/stream/sportv/index.m3u8
 #EXTINF:-1 tvg-id="UFC" tvg-name="UFC" tvg-logo="" group-title="Canais",UFC
 https://stream.equipevt.xyz/stream/ufc/index.m3u8
 
+#EXTINF:-1 tvg-id="GLOBO NE" tvg-name="GLOBO NE" tvg-logo="" group-title="Canais",GLOBO NE
+https://stream.equipevt.xyz/stream/globo_ne/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS" tvg-logo="" group-title="Canais",GLOBO NEWS
+https://stream.equipevt.xyz/stream/globo_news/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="" group-title="Canais",TELECINE PIPOCA
+https://stream.equipevt.xyz/stream/telecine_pipoca/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="Canais",HBO
+https://stream.equipevt.xyz/stream/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="CARTOON NETWORCK" tvg-name="CARTOON NETWORCK" tvg-logo="" group-title="Canais",CARTOON NETWORCK
+https://stream.equipevt.xyz/stream/cartoon_networck_sd/index.m3u8
+
+#EXTINF:-1 tvg-id="BAND RECIFE" tvg-name="BAND RECIFE" tvg-logo="" group-title="Canais",BAND RECIFE
+https://stream.equipevt.xyz/stream/band_recife/index.m3u8
+
+#EXTINF:-1 tvg-id="RECORD RECIFE" tvg-name="RECORD RECIFE" tvg-logo="" group-title="Canais",RECORD RECIFE
+https://stream.equipevt.xyz/stream/record_recife/index.m3u8
