@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://beststorage4you.com:2095/logoscanais/SPORTV.png" group-title="Canais | 4K",PREMIERE 
+https://stream.equipevt.xyz/stream/premiere_cube/index.m3u8
+
+#EXTINF:-1 tvg-id="Cozinha" tvg-name="Cozinha" tvg-logo="http://beststorage4you.com:2095/logoscanais/cozinha.png" group-title="Canais",SPORTV
+https://stream.equipevt.xyz/stream/sportv/index.m3u8
+
+#EXTINF:-1 tvg-id="Piscina" tvg-name="Piscina" tvg-logo="http://beststorage4you.com:2095/logoscanais/piscina.png" group-title="Canais",UFC
+https://stream.equipevt.xyz/stream/ufc/index.m3u8
+
